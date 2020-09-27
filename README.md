@@ -6,5 +6,9 @@ This web application is going to provide students with information
 what are the menus of both of the dining halls so they can pick 
 and choose what type of food they would like to eat.
 
-![Image of Screenshot]
-(https://github.com/BerkerErdini/txst-dining/blob/master/screenshot1.png)
+Screenshots:
+https://github.com/BerkerErdini/txst-dining/blob/master/screenshot1.png
+https://github.com/BerkerErdini/txst-dining/blob/master/screenshot2.png
+
+Live Code:
+https://codesandbox.io/s/txst-dining-1oilm?file=/src/index.js
